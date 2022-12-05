@@ -5,9 +5,13 @@ this isn't run via `docker desktop`. That said, if you're on linux this repo is 
 
 ## Setup
 
-Build the container:
+Build the container (not strictly required, can skip to [Running the container](#running-the-container)):
+
+`./docker_build.sh`
 
 ## Running the container
+
+Start up the container with the run script:
 
 `./docker_run.sh`
 
